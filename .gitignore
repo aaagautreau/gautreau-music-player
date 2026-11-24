@@ -1,0 +1,16 @@
+# 构建产物
+bin/
+obj/
+app/
+*.user
+*.suo
+.vs/
+
+# 日志与本地数据
+*.log
+*.pdb
+data/
+
+# 系统
+Thumbs.db
+.DS_Store
